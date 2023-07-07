@@ -12,7 +12,7 @@
           class="image"
         />
         <div style="padding: 14px">
-          <span>Yummy hamburger</span>
+          <span>Yummy awefawefawef</span>
           <div class="bottom">
             <time class="time">{{ currentDate }}</time>
             <el-button text class="button">Operating</el-button>
